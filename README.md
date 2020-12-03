@@ -15,3 +15,5 @@ _/usr/share/mysql-workbench/data/code_editor.xml_
 
 ## Windows:
 _C:\Program Files\MySQL\MySQL Workbench X.X\data\code_editor.xml_
+
+![MySQL Workbench Dark Theme](https://github.com/dflr10/MySQL-Workbench-Dark-Theme/blob/main/MySQL_Workbench_Dark_Theme.png)
